@@ -1,3 +1,3 @@
 # navigato
 
-![](https://github.com/nanienum/navigato/blob/master/images/game1.png | width=250)
+![](https://github.com/nanienum/navigato/blob/master/images/game1_small.png)
